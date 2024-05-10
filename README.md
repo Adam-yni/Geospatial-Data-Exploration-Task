@@ -2,8 +2,8 @@ In this project, I worked with a Sentinel-2 data cube containing only raw spectr
 
 ### Materials
 I used the following resources to complete the task:
-- A netCDF file containing the Sentinel-2 data cube (provided via a link).
-- A GeoJSON file defining a sub-area of interest (sub-AOI), also provided via a link.
+- A netCDF file containing the Sentinel-2 data cube.
+- A GeoJSON file defining a sub-area of interest (sub-AOI).
 
 ### Deliverables
 Here are the deliverables I produced to meet the project requirements:
